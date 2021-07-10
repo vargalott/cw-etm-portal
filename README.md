@@ -71,6 +71,25 @@ $ task artisan -- storage:link
 $ task down
 ```
 
+## Screenshots
+
+<details>
+  <summary>Expand</summary>
+
+  <p align="center">
+    <img src="screenshots/Main page.png" width="1280"/>
+    <img src="screenshots/Login.png" width="1280"/>
+    <img src="screenshots/Register.png" width="1280"/>
+    <img src="screenshots/Faculties.png" width="1280"/>
+    <img src="screenshots/Cathedras.png" width="1280"/>
+    <img src="screenshots/Staff.png" width="1280"/>
+    <img src="screenshots/Teacher.png" width="1280"/>
+    <img src="screenshots/Teacher files.png" width="1280"/>
+    <img src="screenshots/File.png" width="1280"/>
+    <img src="screenshots/Admin panel.png" width="1280"/>
+    <img src="screenshots/Admin panel faculties CRUD.png" width="1280"/>
+  </p>
+</details>
 
 ## Other
 
